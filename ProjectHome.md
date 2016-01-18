@@ -1,0 +1,1 @@
+This application is Android based. To show public holiday information specially in Indonesia and others information based on date and location of the handset.
